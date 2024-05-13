@@ -1,0 +1,16 @@
+.root{
+  background-color: white
+}
+.checkbox-container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.checkbox-container:hover .hover-button {
+  visibility: visible;
+}
+
+.marg{
+  margin: 10px;
+  color: black;
+}

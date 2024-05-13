@@ -1,0 +1,6 @@
+.hover-button {
+    visibility: hidden;
+    background-color: green;
+    margin-left: 10px;
+    /* Add other styles for your button */
+  }
